@@ -1,0 +1,13 @@
+.btn {
+    color: #fff;
+    border: none;
+    background-color: rgb(39, 63, 99);
+    padding: 1em 1.5em;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
